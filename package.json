@@ -3,5 +3,7 @@
   "version": "1.0.0",
   "description": "GCF template",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "git@github.com:feliperoschel/functions_template.git",
+  "author": "Felipe Roschel <f.roschel@gmail.com>"
 }
