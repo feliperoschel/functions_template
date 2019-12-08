@@ -5,5 +5,8 @@
   "main": "index.js",
   "license": "MIT",
   "repository": "git@github.com:feliperoschel/functions_template.git",
-  "author": "Felipe Roschel <f.roschel@gmail.com>"
+  "author": "Felipe Roschel <f.roschel@gmail.com>",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^1.3.2"
+  }
 }
