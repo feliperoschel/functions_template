@@ -1,0 +1,7 @@
+{
+  "name": "functions_template",
+  "version": "1.0.0",
+  "description": "GCF template",
+  "main": "index.js",
+  "license": "MIT"
+}
